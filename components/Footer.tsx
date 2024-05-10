@@ -22,16 +22,7 @@ const Footer = () => {
           </li>
         </ul>
       </div>
-      <p className="py-[30px] text-center">
-        @2023, Designed and Developed by{" "}
-        <Link
-          className="text-blue-600 underline text-[1.6rem] font-braahOne"
-          href="https://twitter.com/Basit0282"
-          target="blank"
-        >
-          HASSAN BASIT
-        </Link>
-      </p>
+      
     </footer>
   );
 };
